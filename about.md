@@ -2,44 +2,22 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Hi! 🙋‍♂️I'm Halil Cetiner, rarely known as _bayneri_.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I'm a Software Engineer currently living in London. I moved here back in February 2020, just before _you-know-who_ hit this part of the world. Before that, I spent almost the entirety of my life in a lovely but chaotic city, my hometown, Istanbul.
 
-<h2>Skills</h2>
+I'm a Software Engineer at [Yelp](https://www.yelp.com/about), working on a new generation logging and streaming data pipeline, currently delivering up to 1M events/second into Apache Kafka across multiple data centers.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Previously I worked at various sizes of startups. If you are interested in the details, please visit my [LinkedIn profile](https://www.linkedin.com/in/cetinerhalil).
 
-<h2>Projects</h2>
+## A little bit of a backstory
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+I started coding when I was 13 years old with C and C++ for the competitive programming club in my high school. My competitive programming journey was not a total success story but I was poisoned with the love of the bare-metal box (_That was a bit poetic, huh?_). I kept learning new skills since the first `Hello, world!` code block. 
+I started working part-time in my sophomore year at the university and have been working at different companies since then.
+
+After floating around different parts of the product development, I got attracted by the dark side. In the last few years, I grew an interest in distributed systems, streaming and data platforms.
+
+## Contact me
+You can follow me on Twitter [@bayneri](https://www.twitter.com/bayneri), connect me on [LinkedIn](https://www.linkedin.com/in/cetinerhalil) or drop an email at [halil@cetiner.me](mailto:halil@cetiner.me)
