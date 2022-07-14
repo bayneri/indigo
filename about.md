@@ -17,7 +17,7 @@ Previously I worked at various sizes of startups. If you are interested in the d
 I started coding when I was 13 years old with C and C++ for the competitive programming club in my high school. My competitive programming journey was not a total success story but I was poisoned with the love of the bare-metal box (_That was a bit poetic, huh?_). I kept learning new skills since the first `Hello, world!` code block. 
 I started working part-time in my sophomore year at the university and have been working at different companies since then.
 
-After floating around different parts of the product development, I got attracted by the dark side. In the last few years, I grew an interest in distributed systems, streaming and data platforms.
+After floating around different parts of the product development, I got attracted by the dark side. In the last few years, I grew an interest in distributed systems, streaming and data platforms. Besides my daily job, I've been reading, watching, and building a lot to deepen my knowledge around those areas. Lockdowns did help me to find time to do all of that 🙃
 
 ## Contact me
 You can follow me on Twitter [@bayneri](https://www.twitter.com/bayneri), connect me on [LinkedIn](https://www.linkedin.com/in/cetinerhalil) or drop an email at [halil@cetiner.me](mailto:halil@cetiner.me)
