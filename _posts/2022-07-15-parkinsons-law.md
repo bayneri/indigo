@@ -89,3 +89,13 @@ I, personally, haven't tried using Pomodoro Technique yet but only heard good th
 # Takeaways
 
 Parkinson's Law is just an observation about human behaviour but it's a correct and important observation. The first requirement of overcoming Parkinson's Law is understanding it. After that, it's down to fighting it using several proven strategies and useful tools to plan better and work in a more efficient manner.
+
+# References
+
+* \[1\]: https://www.economist.com/news/1955/11/19/parkinsons-law
+* \[2\]: https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique
+* \[3\]: https://en.wikipedia.org/wiki/Hofstadter%27s_law
+* \[4\]: https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method
+* \[5\]: https://en.wikipedia.org/wiki/Pomodoro_Technique
+* Cover Photo: Photo by [Kevin Ku](https://unsplash.com/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadline?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+* [Project Management for the Unofficial Project Manager: A FranklinCovey Title](https://www.amazon.co.uk/Project-Management-Unofficial-Manager-FranklinCovey/dp/194163110X)
