@@ -64,7 +64,7 @@ There is no industry standard on how to structure your design documents or what 
 
 Here is a template I use most of the time. Even though there is a company template this could give some insights about how to organise your thoughts and put them into a design document.
 
-{ % gist bayneri/fc513b12e00f3d10dd2f86618de360f9 % }
+{% gist bayneri/fc513b12e00f3d10dd2f86618de360f9 %}
 
 These are all optional sections and my personal take from my experiences. There is no best way to structure your design documents and there are several articles online about this topic. To be honest, I think some of them are quite inspiring and prepared by engineers more experienced than me. Reading at least a handful of those articles and creating your own recipe by mixing them and adding your experiences might be quite helpful in this case.
 
