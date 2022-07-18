@@ -92,10 +92,10 @@ Parkinson's Law is just an observation about human behaviour but it's a correct 
 
 # References
 
-* \[1\]: https://www.economist.com/news/1955/11/19/parkinsons-law
-* \[2\]: https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique
-* \[3\]: https://en.wikipedia.org/wiki/Hofstadter%27s_law
-* \[4\]: https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method
-* \[5\]: https://en.wikipedia.org/wiki/Pomodoro_Technique
+* \[1\] "Parkinson's Law" https://www.economist.com/news/1955/11/19/parkinsons-law
+* \[2\] "Program Evaluation and Review Technique (PERT)" https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique
+* \[3\] "Hofstadter’s Law" https://en.wikipedia.org/wiki/Hofstadter%27s_law
+* \[4\] "The Eisenhower Method" https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method
+* \[5\] "Pomodoro Technique" https://en.wikipedia.org/wiki/Pomodoro_Technique
 * Cover Photo: Photo by [Kevin Ku](https://unsplash.com/@ikukevk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/deadline?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 * [Project Management for the Unofficial Project Manager: A FranklinCovey Title](https://www.amazon.co.uk/Project-Management-Unofficial-Manager-FranklinCovey/dp/194163110X)
