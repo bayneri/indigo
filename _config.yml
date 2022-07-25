@@ -1,6 +1,6 @@
 # main text of home
 title: Halil Cetiner
-bio: "Software Engineer at <a href='https://www.yelp.com/about' target='_blank'>Yelp</a>"
+bio: "Software Engineer at <a href='https://about.facebook.com/' target='_blank'>Meta</a>"
 
 # twitter summary info
 description: Yet another software guy
@@ -44,7 +44,7 @@ email: halil@cetiner.me
 authors:
   bayneri:
     name: Halil Cetiner
-    bio: Software Engineer at Yelp
+    bio: Software Engineer at Meta
     external-image: false
     picture: assets/images/profile.png
     twitter: bayneri
