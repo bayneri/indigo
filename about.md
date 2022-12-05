@@ -8,7 +8,7 @@ Hi! 🙋‍♂️I'm Halil Cetiner, rarely known as [_bayneri_](https://www.twit
 
 I'm a Senior Software Engineer currently living in London. I moved here back in February 2020, just before _you-know-who_ hit this part of the world. Before that, I spent almost the entirety of my life in a lovely but chaotic city, my hometown, Istanbul.
 
-I'm currently working at [Meta](https://about.facebook.com/) as a Software Engineer.
+I'm currently working at [Meta](https://about.facebook.com/) as a Software Engineer. Currently, I am focused on developing a scalable and rapid experimentation platform for Commerce and Shops Ads teams at Meta.
 
 Before joining Meta, I used to work at Yelp on a new generation logging and streaming data pipeline, delivering up to 1M events/second into Apache Kafka across multiple data centers.
 
