@@ -1,7 +1,7 @@
 ---
 title: "Similarities Between Street Photography and Software Engineering"
 layout: post
-date: 2022-12-06 00:00
+date: 2022-12-05 23:10
 image: /assets/images/sp-challenge.jpg
 headerImage: false
 tag:
