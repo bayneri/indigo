@@ -37,5 +37,7 @@ Overall, there are many similarities between street photography and software eng
 
 ---
 
+Fun fact: I've meaning to write something about this topic but was too lazy to do so. [ChatGPT](https://chat.openai.com/chat) wrote at least 80% of this based on my prompts for specific similarities I was thinking.
+
 Thanks for reading! If you enjoy photography, please feel free to [follow me on Instagram](https://www.instagram.com/_hcet/).
 ![_hcet Instagram Profile](/assets/images/ig-profile.png)
