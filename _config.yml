@@ -9,6 +9,7 @@ description: Yet another software guy
 # better with square images
 external-image: false
 picture: assets/images/profile.png
+logo: assets/images/favicon/apple-touch-icon-152x152.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
