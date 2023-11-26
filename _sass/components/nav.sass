@@ -19,6 +19,10 @@
     padding-top: 80px
     height: 100%
     width: 200px
+
+    @media #{$above}
+        border-right: 1px solid $epsilon
+
     @media #{$below}
         height: fit-content
         width: 100%
@@ -38,7 +42,7 @@
 
         > .item > .link
             font-size: 1.4rem
-            padding: 10px 10px
+            padding: 5px 10px
 
         > .item > .img
             @media #{$below}
@@ -57,7 +61,7 @@
                 opacity: .8
 
         > .item > .title
-            padding: 20px 10px
+            padding: 10px 10px
             @media #{$above}
                 font-size: 2rem
                 margin: 0 0 13px
