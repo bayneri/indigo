@@ -42,7 +42,10 @@ layout: compress
 
 </head>
 <body>
-    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}">
+    <div class="wrapper-{% if site.width == "normal" %}normal{% elsif site.width == "large" %}large{% endif %}{% if page.title != 'Home'%} ml-200{% endif %}">
+        {% if page.title != "Home"%}
+            {% include nav.html %}
+        {% endif %}
         {% if page.layout == "post" %}
             <div class="post">
         {% else %}

@@ -1,9 +1,4 @@
-{% if page.title == "Home"
-   or page.title == "Blog"
-   or page.title == "Projects"
-   or page.title == "Tags"
-   or page.title == "Words"
-%}{% assign showHeader = true %}{% endif %}
+{% if page.title == "Home"%}{% assign showHeader = true %}{% endif %}
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
@@ -24,12 +19,15 @@
     </header>
 {% endif %}
 
-{% include nav.html %}
+{% if page.title == "Home"%}
+    {% include nav.html %}
+{% endif %}
 
 {% if page.title == "Blog"
    or page.title == "Words"
+   or page.title == "About"
 %}
-    <div>
+    <div class="page-inner-title">
         <h1>{{ page.title }}</h1>
         <p><em>{{ page.description }}</em></p>
     </div>

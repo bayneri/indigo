@@ -2,8 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
-
 Hi! 🙋‍♂️I'm Halil Cetiner, rarely known as [_bayneri_](https://www.twitter.com/bayneri).
 
 I'm a Senior Software Engineer currently living in London. I moved here back in February 2020, just before _you-know-who_ hit this part of the world. Before that, I spent almost the entirety of my life in a lovely but chaotic city, my hometown, Istanbul.
