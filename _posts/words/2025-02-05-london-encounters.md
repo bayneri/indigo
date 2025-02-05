@@ -34,8 +34,10 @@ Finding the Turkish bakery at eight felt like a small miracle. The smell of fres
 
 I started writing about this morning. Everything you’ve read so far.
 
-> *Everything you read so far has happened.  
+<div class="breaker"></div>
+*Everything you read so far has happened.  
 Everything you'll read from now on might.*
+<div class="breaker"></div>
 
 That's when Yagmur, who worked at the bakery, came over with an extra tea. "This one's free," she said in Turkish, smiling. We talked about home for a while - about which cities we were from, how long we'd been in London, what we missed most about Turkey.
 
@@ -60,4 +62,3 @@ The old couple stood up, leaving their newspaper behind. As the coffee shop arou
 The room spun gently. Through the changing light, I saw a young man enter the coffee shop - my grandfather, wearing the same clothes I had on today. He ordered a black coffee and sat at my table.
 
 His appearance answered too many questions in my mind, and created a bunch more. The old couple - they'd been the witnesses, the guardians of this moment. As my grandfather smiled at me across the table, I realized this was just the beginning of the story for me.
-    *The mental attitude of trusting in or relying on a person or thing; firm trust, reliance, faith.*
