@@ -34,9 +34,7 @@ Finding the Turkish bakery at eight felt like a small miracle. The smell of fres
 
 I started writing about this morning. Everything you’ve read so far.
 
-<div class="breaker"></div>
-*Everything you read so far has happened.  
-Everything you'll read from now on might.*
+*Everything you read so far has happened. Everything you'll read from now on might.*
 <div class="breaker"></div>
 
 That's when Yagmur, who worked at the bakery, came over with an extra tea. "This one's free," she said in Turkish, smiling. We talked about home for a while - about which cities we were from, how long we'd been in London, what we missed most about Turkey.
