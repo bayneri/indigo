@@ -20,6 +20,7 @@ So why are we talking about running? Because the contrast between a sprint and a
 
 ## Sprinting vs. Marathon in SLOs
 Think of your system as a runner. Nailing a traffic spike with zero downtime is like a sprinter crushing a 100-meter dash—a flashy, short-term win. But true reliability isn’t about one-off heroics; it’s about consistency over weeks, months, or years—the marathon equivalent. Setting an SLO like 100% uptime might sound noble, but it’s like asking a runner to sprint a marathon: it’s unsustainable and risks burning out both your system and your team.
+
 Take an e-commerce platform during Black Friday as an example. A team might aim for 100% uptime for those 24 hours—full speed, like a sprinter pushing for a sub-10-second dash. They add servers, stay up all night, and maybe they win. But extend that expectation across an entire year, and the cracks show: hardware fails, updates glitch, and teams exhaust their reserves. The sprint works for a day; the marathon needs a different strategy.
 
 ## Setting Realistic SLOs
